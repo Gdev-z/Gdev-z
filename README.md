@@ -46,7 +46,7 @@ Siga:
   ### [Good Hamburger API](https://github.com/Gdev-z/good-hamburger)
   Teste técnico de backend em **.NET 8** aplicando princípios de **Clean Architecture**.
 
-  ### [Sovereign Strategy](https://github.com/Gdev-z/sovereign-strategy)
+  ### [Sovereign Strategy](https://github.com/Gdev-z/sovereign-strategy-refined))
   Landing page premium para consultoria de patrimônio — design responsivo e moderno.
 
   ### Automações com n8n
